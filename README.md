@@ -2,4 +2,4 @@
 
 ## Mi Diagrama UML
 
-![Diagrama UML](Diagrama_UML.png)
+![Diagrama UML](Diagrama_UML.jpg)
